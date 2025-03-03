@@ -229,7 +229,7 @@
         <mxCell id="2mweJ5MzyNcEUd5xThuO-60" value="GPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="865" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2mweJ5MzyNcEUd5xThuO-61" value="System&lt;div&gt;Memory&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2mweJ5MzyNcEUd5xThuO-61" value="System&lt;div&gt;Memory&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="30" y="1020" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
