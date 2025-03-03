@@ -7,6 +7,9 @@
         <mxCell id="2mweJ5MzyNcEUd5xThuO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.633;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2mweJ5MzyNcEUd5xThuO-1" target="2mweJ5MzyNcEUd5xThuO-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240.00000000000023" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="330" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-1" value="用户操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -16,13 +19,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-2" value="SDK处理并发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="220" width="110" height="30" as="geometry" />
+          <mxGeometry x="170" y="200" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mweJ5MzyNcEUd5xThuO-3" target="2mweJ5MzyNcEUd5xThuO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-3" value="webRTC直连传输" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="217.5" width="115" height="35" as="geometry" />
+          <mxGeometry x="390" y="200" width="115" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mweJ5MzyNcEUd5xThuO-5" target="2mweJ5MzyNcEUd5xThuO-7">
           <mxGeometry relative="1" as="geometry" />
