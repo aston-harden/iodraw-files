@@ -7,8 +7,8 @@
         <mxCell id="2mweJ5MzyNcEUd5xThuO-1" value="用户操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="160" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2mweJ5MzyNcEUd5xThuO-2" value="用户操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="170" width="110" height="30" as="geometry" />
+        <mxCell id="2mweJ5MzyNcEUd5xThuO-2" value="SDK处理并发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
