@@ -114,7 +114,7 @@
           <mxGeometry x="550" y="820" width="410" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-35" value="Frustum&lt;div&gt;culling&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="870" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-36" value="Encode&lt;div&gt;occluder&lt;/div&gt;&lt;div&gt;draws&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="830" y="870" width="120" height="60" as="geometry" />
