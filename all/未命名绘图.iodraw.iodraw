@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2mweJ5MzyNcEUd5xThuO-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="240" height="540" as="geometry" />
+        </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.633;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2mweJ5MzyNcEUd5xThuO-1" target="2mweJ5MzyNcEUd5xThuO-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240.00000000000023" y="260" as="targetPoint" />
@@ -79,9 +82,6 @@
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-19" value="渲染到终端窗口" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="90" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2mweJ5MzyNcEUd5xThuO-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
