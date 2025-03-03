@@ -229,6 +229,9 @@
         <mxCell id="2mweJ5MzyNcEUd5xThuO-60" value="GPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="865" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2mweJ5MzyNcEUd5xThuO-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1130" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
