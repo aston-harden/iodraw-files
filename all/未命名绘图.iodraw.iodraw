@@ -46,10 +46,14 @@
           <mxGeometry x="732.5" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mweJ5MzyNcEUd5xThuO-11" target="2mweJ5MzyNcEUd5xThuO-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="793" y="655" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-11" value="GPU渲染" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="732.5" y="485" width="120" height="60" as="geometry" />
+          <mxGeometry x="732.5" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mweJ5MzyNcEUd5xThuO-13" target="2mweJ5MzyNcEUd5xThuO-15">
           <mxGeometry relative="1" as="geometry" />
