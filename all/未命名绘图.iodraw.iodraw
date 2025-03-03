@@ -83,8 +83,8 @@
         <mxCell id="2mweJ5MzyNcEUd5xThuO-19" value="渲染到终端窗口" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="90" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2mweJ5MzyNcEUd5xThuO-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="560" y="180" width="200" height="530" as="geometry" />
+        <mxCell id="2mweJ5MzyNcEUd5xThuO-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="560" y="180" width="320" height="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
