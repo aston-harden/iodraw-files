@@ -13,8 +13,14 @@
         <mxCell id="2mweJ5MzyNcEUd5xThuO-2" value="SDK处理并发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="220" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2mweJ5MzyNcEUd5xThuO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mweJ5MzyNcEUd5xThuO-3" target="2mweJ5MzyNcEUd5xThuO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-3" value="webRTC直连传输" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="217.5" width="115" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2mweJ5MzyNcEUd5xThuO-5" value="业务层处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="205" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
