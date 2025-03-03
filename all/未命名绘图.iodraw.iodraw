@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2mweJ5MzyNcEUd5xThuO-1" value="用户操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2mweJ5MzyNcEUd5xThuO-1" value="用户操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="90" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mweJ5MzyNcEUd5xThuO-2" target="2mweJ5MzyNcEUd5xThuO-3">
@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2mweJ5MzyNcEUd5xThuO-17" value="SDK解码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2mweJ5MzyNcEUd5xThuO-17" value="SDK解码" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-19" value="渲染到终端窗口" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
