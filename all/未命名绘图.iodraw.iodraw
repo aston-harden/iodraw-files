@@ -226,8 +226,8 @@
             <mxPoint x="960" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2mweJ5MzyNcEUd5xThuO-60" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="668" width="50" height="30" as="geometry" />
+        <mxCell id="2mweJ5MzyNcEUd5xThuO-60" value="GPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="865" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
