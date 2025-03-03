@@ -55,7 +55,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-13" value="硬件音视频编码压缩" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="732.5" y="625" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2mweJ5MzyNcEUd5xThuO-15" target="2mweJ5MzyNcEUd5xThuO-17">
           <mxGeometry relative="1" as="geometry" />
