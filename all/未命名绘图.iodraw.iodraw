@@ -99,10 +99,10 @@
           <mxGeometry x="210" y="870" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-29" value="Render Pass" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;opacity=30;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="390" y="820" width="140" height="120" as="geometry" />
+          <mxGeometry x="310" y="820" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-30" value="Render&lt;div&gt;occluders&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="400" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="870" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mweJ5MzyNcEUd5xThuO-31" value="Compute Pass" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;opacity=30;horizontal=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="550" y="820" width="140" height="120" as="geometry" />
