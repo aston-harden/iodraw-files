@@ -232,12 +232,6 @@
         <mxCell id="2mweJ5MzyNcEUd5xThuO-62" value="System&lt;div&gt;Memory&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="70" y="1019.5" width="55" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="2mweJ5MzyNcEUd5xThuO-66" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="540" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2mweJ5MzyNcEUd5xThuO-68" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="1326" y="545" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
