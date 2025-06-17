@@ -233,13 +233,13 @@
           <mxGeometry x="70" y="1019.5" width="55" height="61" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-1" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1439" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="1480" width="319" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-3" value="迭代式层级降解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="1672" width="309" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-4" value="构建优先级堆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="1572" width="310" height="60" as="geometry" />
+          <mxGeometry x="434" y="1572" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-5" value="动态调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="1870" width="297" height="60" as="geometry" />
