@@ -236,31 +236,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-1" value="初始化渲染系统状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="1514" width="136" height="60" as="geometry" />
+          <mxGeometry x="13" y="1516" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O9luD-ZOJjk9EaqmVnFo-3" target="O9luD-ZOJjk9EaqmVnFo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-3" value="动态调整SSE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="1514" width="122" height="60" as="geometry" />
+          <mxGeometry x="341" y="1516" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O9luD-ZOJjk9EaqmVnFo-4" target="O9luD-ZOJjk9EaqmVnFo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-4" value="实时监测负载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1514" width="104" height="60" as="geometry" />
+          <mxGeometry x="193" y="1516" width="104" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O9luD-ZOJjk9EaqmVnFo-5" target="O9luD-ZOJjk9EaqmVnFo-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-5" value="反馈和优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="693" y="1514" width="88" height="60" as="geometry" />
+          <mxGeometry x="706" y="1516" width="88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O9luD-ZOJjk9EaqmVnFo-6" target="O9luD-ZOJjk9EaqmVnFo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-6" value="用新数值来调度和渲染场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482" y="1514" width="167" height="60" as="geometry" />
+          <mxGeometry x="495" y="1516" width="167" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
