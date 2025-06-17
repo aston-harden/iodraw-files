@@ -250,7 +250,7 @@
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-4" value="实时监测负载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="1572" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O9luD-ZOJjk9EaqmVnFo-5" value="动态调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O9luD-ZOJjk9EaqmVnFo-5" value="反馈和优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="1870" width="297" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O9luD-ZOJjk9EaqmVnFo-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O9luD-ZOJjk9EaqmVnFo-6" target="O9luD-ZOJjk9EaqmVnFo-5">
