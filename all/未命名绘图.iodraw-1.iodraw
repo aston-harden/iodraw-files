@@ -38,7 +38,7 @@
           <mxGeometry x="488" y="539" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-12" value="减面计算" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="491" y="629" width="200" height="40" as="geometry" />
+          <mxGeometry x="491" y="629" width="200" height="181" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
