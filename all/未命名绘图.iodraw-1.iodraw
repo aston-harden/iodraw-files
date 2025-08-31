@@ -55,8 +55,8 @@
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-18" value="&lt;span style=&quot;text-align: left;&quot;&gt;重复 3-4 直到面数小于阈值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="139" y="808" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-19" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="109" y="536" width="120" height="60" as="geometry" />
+        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-19" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="109" y="536" width="239" height="319" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
