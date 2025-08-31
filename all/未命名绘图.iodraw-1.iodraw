@@ -4,19 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;读取并解析 OBJ 文件&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 提取 v / vt / vn / f&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;统一浮点精度 &amp;amp; 坐标系&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;读取并解析 OBJ 文件&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 提取 v / vt / vn / f&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;统一浮点精度 &amp;amp; 坐标系&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="310" y="270" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vx8PzaAHkxI-ZQYkMV6M-2" target="vx8PzaAHkxI-ZQYkMV6M-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;规范化（Normalization）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;中心归零、单位立方体缩放&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;顶点排序并去重&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;面索引重映射 → 唯一顶点编号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;规范化（Normalization）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;中心归零、单位立方体缩放&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;顶点排序并去重&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;面索引重映射 → 唯一顶点编号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="310" y="360" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vx8PzaAHkxI-ZQYkMV6M-3" target="vx8PzaAHkxI-ZQYkMV6M-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-3" value="高维特征矩阵构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-3" value="高维特征矩阵构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="310" y="460" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vx8PzaAHkxI-ZQYkMV6M-5" target="vx8PzaAHkxI-ZQYkMV6M-6">
