@@ -49,7 +49,7 @@
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-16" value="&lt;span style=&quot;text-align: left;&quot;&gt;对所有的边计算 cost，建立(维护)最小堆&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="139" y="682" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;对所有的边计算 cost，建立(维护)最小堆&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;pop 出堆顶，删除边，更新顶点表、面表、Q 矩阵&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="136" y="745" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
