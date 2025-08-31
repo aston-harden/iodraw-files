@@ -11,7 +11,7 @@
           <mxGeometry x="310" y="360" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-3" value="高维特征矩阵构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="200" height="110" as="geometry" />
+          <mxGeometry x="310" y="460" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
