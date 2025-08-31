@@ -10,6 +10,9 @@
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;规范化（Normalization）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;中心归零、单位立方体缩放&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;顶点排序并去重&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;面索引重映射 → 唯一顶点编号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="360" width="200" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;规范化（Normalization）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;中心归零、单位立方体缩放&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;顶点排序并去重&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;面索引重映射 → 唯一顶点编号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="200" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
