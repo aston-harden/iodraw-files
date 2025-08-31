@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-19" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="116.5" y="546" width="239" height="319" as="geometry" />
+          <mxGeometry x="463" y="619" width="239" height="319" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;读取并解析 OBJ 文件&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 提取 v / vt / vn / f&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;统一浮点精度 &amp;amp; 坐标系&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="86" y="100" width="200" height="60" as="geometry" />
@@ -41,22 +41,25 @@
           <mxGeometry x="488" y="539" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-12" value="减面计算&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;使用点到面的距离公式，建立 Q矩阵对所有的边计算 cost，建立(维护)最小堆&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;pop 出堆顶，删除边，更新顶点表、面表、Q 矩阵&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;重复 3-4 直到面数小于阈值&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="710" y="737.5" width="170" height="181" as="geometry" />
+          <mxGeometry x="769" y="738" width="170" height="181" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-14" value="&lt;span style=&quot;text-align: left;&quot;&gt;建立边表和顶点表、面表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="136" y="568" width="200" height="40" as="geometry" />
+          <mxGeometry x="482.5" y="641" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-15" value="&lt;span style=&quot;text-align: left;&quot;&gt;使用点到面的距离公式，建立 Q矩阵&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="136" y="625" width="200" height="40" as="geometry" />
+          <mxGeometry x="482.5" y="698" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-16" value="&lt;span style=&quot;text-align: left;&quot;&gt;对所有的边计算 cost，建立(维护)最小堆&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="139" y="682" width="200" height="40" as="geometry" />
+          <mxGeometry x="485.5" y="755" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-17" value="&lt;span style=&quot;text-align: left;&quot;&gt;pop 出堆顶，删除边，更新顶点表、面表、Q 矩阵&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="136" y="745" width="200" height="40" as="geometry" />
+          <mxGeometry x="482.5" y="818" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-18" value="&lt;span style=&quot;text-align: left;&quot;&gt;重复 3-4 直到面数小于阈值&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="139" y="808" width="200" height="40" as="geometry" />
+          <mxGeometry x="485.5" y="881" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="172" y="723" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
