@@ -16,8 +16,8 @@
         <mxCell id="vx8PzaAHkxI-ZQYkMV6M-4" value="哈希签名&#xa;对顶点矩阵与面矩阵分别求 MD5组合生成 128 bit 模型指纹" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="460" y="660" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-5" value="高维特征矩阵构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="530" width="200" height="40" as="geometry" />
+        <mxCell id="vx8PzaAHkxI-ZQYkMV6M-5" value="&lt;span style=&quot;text-align: left;&quot;&gt;哈希签名&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;对顶点矩阵与面矩阵分别求 MD5组合生成 128 bit 模型指纹&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="530" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
