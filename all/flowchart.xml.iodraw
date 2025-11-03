@@ -46,7 +46,7 @@
         <mxCell id="u34zE_e3Z6OJr0xamFG7-8" value="绘制完成" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u34zE_e3Z6OJr0xamFG7-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-10" value="区域合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="420" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
