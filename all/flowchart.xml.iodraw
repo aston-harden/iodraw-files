@@ -128,6 +128,9 @@
         <mxCell id="u34zE_e3Z6OJr0xamFG7-32" value="调整完成后，点击“生成水面”，创建水面对象" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-34" value="调整完成后，点击“生成水面”，创建水面对象" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
