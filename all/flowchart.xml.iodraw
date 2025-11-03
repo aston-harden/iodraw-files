@@ -12,9 +12,6 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="指定水面区域" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u34zE_e3Z6OJr0xamFG7-0" value="开始鼠标绘制状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u34zE_e3Z6OJr0xamFG7-1" target="u34zE_e3Z6OJr0xamFG7-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -37,7 +34,7 @@
         <mxCell id="u34zE_e3Z6OJr0xamFG7-2" value="进入水面区域的编辑状态，显示原有矢量面，显示Gizmo" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u34zE_e3Z6OJr0xamFG7-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-5" value="开始进入鼠标划线状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
