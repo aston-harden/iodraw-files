@@ -80,7 +80,7 @@
           <mxGeometry x="430" y="560" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-19" value="点击&quot;清除区域&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
