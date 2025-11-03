@@ -79,11 +79,6 @@
         <mxCell id="u34zE_e3Z6OJr0xamFG7-14" value="显示辅助矢量和Gizmo，清除区域按钮变为可用，“指定水面区域”按钮变为“生成水面&quot;”" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="560" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="u34zE_e3Z6OJr0xamFG7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u34zE_e3Z6OJr0xamFG7-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-19" value="点击&quot;清除区域&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="710" width="120" height="60" as="geometry" />
         </mxCell>
