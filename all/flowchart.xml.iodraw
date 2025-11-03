@@ -90,6 +90,9 @@
         <mxCell id="u34zE_e3Z6OJr0xamFG7-19" value="点击&quot;清除区域&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="710" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u34zE_e3Z6OJr0xamFG7-21" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-21" value="初始化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="334" y="-150" width="80" height="80" as="geometry" />
         </mxCell>
