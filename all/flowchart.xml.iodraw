@@ -34,8 +34,14 @@
         <mxCell id="u34zE_e3Z6OJr0xamFG7-2" value="进入水面区域的编辑状态，显示原有矢量面，显示Gizmo" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u34zE_e3Z6OJr0xamFG7-5" target="u34zE_e3Z6OJr0xamFG7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-5" value="开始进入鼠标划线状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
