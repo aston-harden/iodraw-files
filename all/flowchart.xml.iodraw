@@ -40,7 +40,7 @@
         <mxCell id="u34zE_e3Z6OJr0xamFG7-5" value="开始进入鼠标划线状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u34zE_e3Z6OJr0xamFG7-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-8" value="绘制完成，" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
