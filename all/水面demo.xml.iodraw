@@ -476,6 +476,12 @@
         <mxCell id="D49kLpIe9YHPlobCfUmq-43" value="拾取底高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="120" width="58" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZZV8b_ddey0NBX0uA5U0-1" value="单体化显示方式&lt;div&gt;组合框&lt;/div&gt;&lt;div&gt;（ComboBox）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1200" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZZV8b_ddey0NBX0uA5U0-2" value="单体化对象关联数据集选择框（ComboBox）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
