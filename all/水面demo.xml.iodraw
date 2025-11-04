@@ -479,8 +479,8 @@
         <mxCell id="ZZV8b_ddey0NBX0uA5U0-2" value="单体化对象关联数据集选择框（ComboBox）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jJPn5LL5SCTBD_TzCN5j-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="313" y="900" width="120" height="90" as="geometry" />
+        <mxCell id="jJPn5LL5SCTBD_TzCN5j-1" value="点击“拾取顶高\底高”，会进入顶高底高的获取状态，点击一个高度，会用此高度更新矢量框，要求顶高&amp;gt;底高" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="900" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
