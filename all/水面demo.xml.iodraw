@@ -276,7 +276,7 @@
         <mxCell id="u34zE_e3Z6OJr0xamFG7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u34zE_e3Z6OJr0xamFG7-74" target="u34zE_e3Z6OJr0xamFG7-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u34zE_e3Z6OJr0xamFG7-74" value="调整完成后，点击“生成水面”" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-74" value="调整完成后，点击“生成开挖效果”" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="186" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-75" value="创建水面对象" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
