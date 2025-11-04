@@ -403,7 +403,7 @@
         <mxCell id="D49kLpIe9YHPlobCfUmq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-24" target="D49kLpIe9YHPlobCfUmq-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D49kLpIe9YHPlobCfUmq-24" value="显示辅助矢量和Gizmo，清除区域按钮变为可用，“指定开挖区域”按钮变为“生成开挖效果&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D49kLpIe9YHPlobCfUmq-24" value="按照所绘制区域的最高，最低点创建一个矢量框，清除区域按钮变为可用，“指定单体化区域”按钮变为“执行单体化&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="910" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-26" target="D49kLpIe9YHPlobCfUmq-28">
@@ -462,7 +462,7 @@
           <mxGeometry x="264" y="120" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-41" value="执行外扩压平" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="120" width="102" height="60" as="geometry" />
+          <mxGeometry x="669" y="120" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-42" value="切割分户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="120" width="106" height="60" as="geometry" />
