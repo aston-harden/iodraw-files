@@ -153,10 +153,164 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lQlQ8iWdfDT5SM_E_8Ba" name="第 2 页">
-    <mxGraphModel dx="1542" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1542" dy="-271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="259" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-2" value="指定开挖区域" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="199" y="1590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-7" target="PlO0C3ByFReB1bkCWfsL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-4" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PlO0C3ByFReB1bkCWfsL-3">
+          <mxGeometry x="-0.1849" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-7" target="PlO0C3ByFReB1bkCWfsL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-6" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PlO0C3ByFReB1bkCWfsL-5">
+          <mxGeometry x="0.0281" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-7" value="是否已经创建了开挖对象" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="1680" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-10" target="PlO0C3ByFReB1bkCWfsL-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-10" target="PlO0C3ByFReB1bkCWfsL-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-10" value="进入开挖区域的编辑状态，显示原有矢量面，显示Gizmo，“指定开挖区域”按钮变为“生成开挖效果”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="1850" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-12" target="PlO0C3ByFReB1bkCWfsL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-12" value="开始进入鼠标划线状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-14" target="PlO0C3ByFReB1bkCWfsL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-14" value="绘制完成" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="1830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-19" target="PlO0C3ByFReB1bkCWfsL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-16" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PlO0C3ByFReB1bkCWfsL-15">
+          <mxGeometry x="-0.2295" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-19" target="PlO0C3ByFReB1bkCWfsL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-18" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PlO0C3ByFReB1bkCWfsL-17">
+          <mxGeometry x="-0.2106" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-19" value="区域合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="529" y="1800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="689" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-21" value="引擎提示区域非法，并继续处于划线状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="1940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-24" target="PlO0C3ByFReB1bkCWfsL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-24" target="PlO0C3ByFReB1bkCWfsL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-24" value="显示辅助矢量和Gizmo，清除区域按钮变为可用，“指定开挖区域”按钮变为“生成开挖效果&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="2070" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-26" target="PlO0C3ByFReB1bkCWfsL-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="789" y="2250" />
+              <mxPoint x="789" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-26" value="点击&quot;清除区域&quot;，清除所有数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-28" target="PlO0C3ByFReB1bkCWfsL-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="409" y="1610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-28" value="初始化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="373" y="1360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-30" target="PlO0C3ByFReB1bkCWfsL-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-30" value="点击“生成开挖效果”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-32" target="PlO0C3ByFReB1bkCWfsL-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="109" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-32" value="点击&quot;清除区域&quot;，清除所有数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="1875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlO0C3ByFReB1bkCWfsL-34" target="PlO0C3ByFReB1bkCWfsL-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-34" value="调整完成后，点击“生成开挖效果”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-35" value="以默认的“封口并使用原纹理”创建开挖效果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-36" value="指定单体化区域/ 执行单体化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="1200" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-37" value="清除区域" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="1200" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-38" value="单体化显示方式&lt;div&gt;组合框&lt;/div&gt;&lt;div&gt;（ComboBox）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1200" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-39" value="单体化对象关联数据集选择框（ComboBox）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-40" value="开挖纹理C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="691" y="1270" width="58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-41" value="开挖纹理&lt;div&gt;A&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="1270" width="58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlO0C3ByFReB1bkCWfsL-42" value="开挖纹理 B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="1270" width="58" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
