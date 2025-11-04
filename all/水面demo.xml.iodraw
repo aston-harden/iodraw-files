@@ -462,10 +462,10 @@
           <mxGeometry x="354" y="40" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-40" value="拾取顶高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="120" width="58" height="60" as="geometry" />
+          <mxGeometry x="140" y="120" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-43" value="拾取底高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="120" width="58" height="60" as="geometry" />
+          <mxGeometry x="220" y="120" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZV8b_ddey0NBX0uA5U0-1" value="单体化显示方式&lt;div&gt;组合框&lt;/div&gt;&lt;div&gt;（ComboBox）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="40" width="110" height="60" as="geometry" />
@@ -477,7 +477,10 @@
           <mxGeometry x="300" y="900" width="133" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-1" value="层数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422" y="120" width="58" height="60" as="geometry" />
+          <mxGeometry x="298" y="120" width="92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HYk7YuQPxWY3aMLWXI7S-2" value="层数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="130" width="92" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
