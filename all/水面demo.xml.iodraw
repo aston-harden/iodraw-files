@@ -283,25 +283,25 @@
           <mxGeometry x="320" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-76" value="指定开挖区域/ 生成水面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="116" y="240" width="190" height="60" as="geometry" />
+          <mxGeometry x="116" y="200" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-77" value="清除区域" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="240" width="116" height="60" as="geometry" />
+          <mxGeometry x="330" y="200" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-78" value="开挖类型组合框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="476" y="240" width="110" height="60" as="geometry" />
+          <mxGeometry x="476" y="200" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-79" value="开挖对象选择框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="616" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="616" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-82" value="开挖纹理C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="320" width="58" height="60" as="geometry" />
+          <mxGeometry x="678" y="270" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-83" value="开挖纹理&lt;div&gt;A&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="116" y="320" width="58" height="60" as="geometry" />
+          <mxGeometry x="534" y="270" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-84" value="开挖纹理 B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="186" y="320" width="58" height="60" as="geometry" />
+          <mxGeometry x="604" y="270" width="58" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
