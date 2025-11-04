@@ -476,8 +476,8 @@
         <mxCell id="jJPn5LL5SCTBD_TzCN5j-1" value="点击“拾取顶高\底高”，会进入顶高底高的获取状态，点击一个高度，会用此高度更新矢量框，要求顶高&amp;gt;底高" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="900" width="133" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HYk7YuQPxWY3aMLWXI7S-1" value="拾取底高" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="130" width="58" height="60" as="geometry" />
+        <mxCell id="HYk7YuQPxWY3aMLWXI7S-1" value="层数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="120" width="58" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
