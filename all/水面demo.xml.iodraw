@@ -407,7 +407,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-24" target="HYk7YuQPxWY3aMLWXI7S-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="1070" />
+              <mxPoint x="460" y="1070" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-24" value="按照所绘制区域的最高，最低点创建一个矢量框，清除区域按钮变为可用，“指定单体化区域”按钮变为“执行单体化&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="910" width="120" height="100" as="geometry" />
@@ -483,7 +488,7 @@
           <mxGeometry x="298" y="120" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="1060" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
