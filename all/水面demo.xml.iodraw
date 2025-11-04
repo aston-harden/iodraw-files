@@ -255,7 +255,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-68" value="初始化" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="360" width="80" height="80" as="geometry" />
+          <mxGeometry x="361" y="420" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u34zE_e3Z6OJr0xamFG7-70" target="u34zE_e3Z6OJr0xamFG7-75">
           <mxGeometry relative="1" as="geometry" />
