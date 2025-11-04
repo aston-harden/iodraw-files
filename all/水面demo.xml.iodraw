@@ -153,7 +153,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lQlQ8iWdfDT5SM_E_8Ba" name="开挖压平Demo">
-    <mxGraphModel dx="1542" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1542" dy="-271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -309,7 +309,7 @@
           <mxGeometry x="650" y="1200" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hd28gO0fqH7af247WS5-2" value="开挖对象选择框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="516" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -474,7 +474,7 @@
           <mxGeometry x="500" y="400" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZV8b_ddey0NBX0uA5U0-2" value="单体化对象关联数据集选择框（ComboBox）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
