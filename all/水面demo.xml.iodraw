@@ -442,7 +442,7 @@
         <mxCell id="u34zE_e3Z6OJr0xamFG7-121" value="清除区域" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="343" y="1590" width="116" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u34zE_e3Z6OJr0xamFG7-122" value="单体化显示方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-122" value="单体化显示方式&lt;div&gt;组合框&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="489" y="1590" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-123" value="开挖对象选择框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
