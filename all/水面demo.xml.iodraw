@@ -294,11 +294,14 @@
         <mxCell id="u34zE_e3Z6OJr0xamFG7-79" value="开挖对象选择框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="616" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u34zE_e3Z6OJr0xamFG7-80" value="开挖纹理A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="116" y="320" width="74" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-82" value="开挖纹理C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="418" y="320" width="58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-83" value="开挖纹理C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="272" y="320" width="58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u34zE_e3Z6OJr0xamFG7-84" value="开挖纹理C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="343" y="320" width="58" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
