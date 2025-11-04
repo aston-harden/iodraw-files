@@ -403,6 +403,9 @@
         <mxCell id="D49kLpIe9YHPlobCfUmq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-24" target="D49kLpIe9YHPlobCfUmq-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jJPn5LL5SCTBD_TzCN5j-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-24" target="jJPn5LL5SCTBD_TzCN5j-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-24" value="按照所绘制区域的最高，最低点创建一个矢量框，清除区域按钮变为可用，“指定单体化区域”按钮变为“执行单体化&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="910" width="120" height="100" as="geometry" />
         </mxCell>
@@ -475,6 +478,9 @@
         </mxCell>
         <mxCell id="ZZV8b_ddey0NBX0uA5U0-2" value="单体化对象关联数据集选择框（ComboBox）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJPn5LL5SCTBD_TzCN5j-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
