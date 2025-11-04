@@ -298,10 +298,10 @@
           <mxGeometry x="116" y="320" width="74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-81" value="开挖纹理B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="320" width="194" height="60" as="geometry" />
+          <mxGeometry x="330" y="320" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u34zE_e3Z6OJr0xamFG7-82" value="开挖纹理C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="542" y="320" width="194" height="60" as="geometry" />
+          <mxGeometry x="418" y="320" width="58" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
