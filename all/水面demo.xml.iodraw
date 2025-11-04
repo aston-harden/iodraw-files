@@ -479,9 +479,6 @@
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-1" value="层数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="120" width="92" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYk7YuQPxWY3aMLWXI7S-2" value="切割分户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="120" width="92" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
