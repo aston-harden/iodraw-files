@@ -481,13 +481,13 @@
           <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jJPn5LL5SCTBD_TzCN5j-1" value="点击“拾取顶高\底高”，会进入顶高底高的获取状态，点击一个高度，会用此高度更新矢量框，要求顶高&amp;gt;底高" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="900" width="133" height="120" as="geometry" />
+          <mxGeometry x="300" y="840" width="133" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-1" value="层数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="120" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-4" value="默认层数为1，创建的区域以层数框中数据进行分层，设置层数，会动态修改层数的显示。只在单体化框的状态有效，其他状态下此控件的操作都被忽略" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1060" width="140" height="130" as="geometry" />
+          <mxGeometry x="300" y="990" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-6" value="显示所有可关联的数据集，绑定后，则对应数据集移动时，倾斜摄影会跟随移动。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="1060" width="80" height="130" as="geometry" />
