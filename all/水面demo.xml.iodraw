@@ -490,7 +490,7 @@
           <mxGeometry x="300" y="1060" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-6" value="显示所有可关联的数据集，绑定后，则对应数据集移动时，倾斜摄影会跟随移动。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1060" width="140" height="130" as="geometry" />
+          <mxGeometry x="70" y="1060" width="80" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
