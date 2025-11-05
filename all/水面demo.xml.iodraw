@@ -305,11 +305,14 @@
         <mxCell id="PlO0C3ByFReB1bkCWfsL-42" value="开挖纹理 B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="617" y="1270" width="58" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9hd28gO0fqH7af247WS5-1" value="开挖类型组合框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9hd28gO0fqH7af247WS5-1" value="挤出类型组合框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="1200" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9hd28gO0fqH7af247WS5-2" value="挤出对象选择框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="516" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2ZF9A9iZvFwxU9Gd9sN-1" value="开挖纹理&lt;div&gt;A&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557" y="1280" width="58" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
