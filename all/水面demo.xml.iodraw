@@ -413,6 +413,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HYk7YuQPxWY3aMLWXI7S-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-24" target="HYk7YuQPxWY3aMLWXI7S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-24" value="按照所绘制区域的最高，最低点创建一个矢量框，清除区域按钮变为可用，“指定单体化区域”按钮变为“执行单体化&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="910" width="120" height="100" as="geometry" />
         </mxCell>
@@ -478,7 +481,7 @@
           <mxGeometry x="530" y="40" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZV8b_ddey0NBX0uA5U0-2" value="单体化对象关联数据集选择框（ComboBox）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jJPn5LL5SCTBD_TzCN5j-1" value="点击“拾取顶高\底高”，会进入顶高底高的获取状态，点击一个高度，会用此高度更新矢量框，要求顶高&amp;gt;底高" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="840" width="133" height="120" as="geometry" />
@@ -491,15 +494,6 @@
         </mxCell>
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-6" value="显示所有可关联的数据集，绑定后，则对应数据集移动时，倾斜摄影会跟随移动。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1140" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="HYk7YuQPxWY3aMLWXI7S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-24" target="HYk7YuQPxWY3aMLWXI7S-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="570" y="1180" />
-              <mxPoint x="299" y="1180" />
-              <mxPoint x="299" y="1160" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
