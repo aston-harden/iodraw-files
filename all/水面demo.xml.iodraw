@@ -486,7 +486,7 @@
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-1" value="层数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="120" width="92" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYk7YuQPxWY3aMLWXI7S-4" value="默认层数为1，创建的区域以层数框中数据进行分层，设置层数，会动态修改层数的显示。只在单体化框的状态有用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYk7YuQPxWY3aMLWXI7S-4" value="默认层数为1，创建的区域以层数框中数据进行分层，设置层数，会动态修改层数的显示。只在单体化框的状态有效，其他状态下此控件的操作都被忽略" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1060" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
