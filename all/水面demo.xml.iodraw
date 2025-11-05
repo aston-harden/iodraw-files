@@ -419,7 +419,7 @@
         <mxCell id="D49kLpIe9YHPlobCfUmq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-26" target="D49kLpIe9YHPlobCfUmq-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="1330" />
+              <mxPoint x="800" y="1300" />
               <mxPoint x="800" y="240" />
             </Array>
           </mxGeometry>
@@ -459,7 +459,7 @@
         <mxCell id="D49kLpIe9YHPlobCfUmq-34" value="调整完成后，点击“执行单体化”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D49kLpIe9YHPlobCfUmq-35" value="以默认的“封口并使用原纹理”创建开挖效果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D49kLpIe9YHPlobCfUmq-35" value="以不同颜色对不同层进行单体化显示，显示方式跟所选择的显示一致。如果调整了单体化显示方式，则会动态改变显示方式。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-36" value="指定单体化区域/ 执行单体化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
