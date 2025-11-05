@@ -460,7 +460,7 @@
           <mxGeometry x="210" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-35" value="以不同颜色对不同层进行单体化显示，显示方式跟所选择的显示一致。如果调整了单体化显示方式，则会动态改变显示方式。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1400" width="154" height="130" as="geometry" />
+          <mxGeometry x="310" y="1400" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-36" value="指定单体化区域/ 执行单体化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="40" width="190" height="60" as="geometry" />
