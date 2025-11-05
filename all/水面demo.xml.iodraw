@@ -312,7 +312,7 @@
           <mxGeometry x="516" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S2ZF9A9iZvFwxU9Gd9sN-1" value="开挖效果影响的高度区间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1280" width="156" height="60" as="geometry" />
+          <mxGeometry x="303" y="1270" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
