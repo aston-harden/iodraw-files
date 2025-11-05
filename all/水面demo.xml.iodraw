@@ -355,7 +355,7 @@
         <mxCell id="D49kLpIe9YHPlobCfUmq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-10" target="D49kLpIe9YHPlobCfUmq-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D49kLpIe9YHPlobCfUmq-10" value="进入开挖区域的编辑状态，显示原有矢量面，显示Gizmo，“指定开挖区域”按钮变为“生成开挖效果”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D49kLpIe9YHPlobCfUmq-10" value="进入开挖区域的编辑状态，显示原有矢量面，显示Gizmo，“指定开挖区域”按钮变为“生成开挖效果”，原来的层数，顶高，底高都不记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="690" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-12" target="D49kLpIe9YHPlobCfUmq-14">
