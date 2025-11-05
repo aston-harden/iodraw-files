@@ -456,7 +456,7 @@
         <mxCell id="D49kLpIe9YHPlobCfUmq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-34" target="D49kLpIe9YHPlobCfUmq-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D49kLpIe9YHPlobCfUmq-34" value="调整完成后，点击“生成开挖效果”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D49kLpIe9YHPlobCfUmq-34" value="调整完成后，点击“执行单体化”" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D49kLpIe9YHPlobCfUmq-35" value="以默认的“封口并使用原纹理”创建开挖效果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -487,7 +487,7 @@
           <mxGeometry x="298" y="120" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-4" value="默认层数为1，创建的区域以层数框中数据进行分层，设置层数，会动态修改层数的显示。只在单体化框的状态有效，其他状态下此控件的操作都被忽略" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1060" width="130" height="100" as="geometry" />
+          <mxGeometry x="300" y="1060" width="140" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
