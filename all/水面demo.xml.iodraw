@@ -492,6 +492,13 @@
         <mxCell id="HYk7YuQPxWY3aMLWXI7S-6" value="显示所有可关联的数据集，绑定后，则对应数据集移动时，倾斜摄影会跟随移动。" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="1060" width="80" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="HYk7YuQPxWY3aMLWXI7S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D49kLpIe9YHPlobCfUmq-24" target="HYk7YuQPxWY3aMLWXI7S-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
