@@ -518,8 +518,8 @@
         <mxCell id="fr6zKeq4Gf89fbZ8SuuG-1" value="pak选择集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fr6zKeq4Gf89fbZ8SuuG-2" value="pak选择集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="fr6zKeq4Gf89fbZ8SuuG-2" value="elem选择集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
