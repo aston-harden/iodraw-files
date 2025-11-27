@@ -530,6 +530,9 @@
         <mxCell id="fr6zKeq4Gf89fbZ8SuuG-4" value="在目录树中选择pak节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fr6zKeq4Gf89fbZ8SuuG-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="218" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
