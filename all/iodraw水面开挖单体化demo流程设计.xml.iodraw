@@ -545,6 +545,9 @@
         <mxCell id="fr6zKeq4Gf89fbZ8SuuG-10" value="在场景中选择模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="260" width="147.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fr6zKeq4Gf89fbZ8SuuG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.374;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fr6zKeq4Gf89fbZ8SuuG-7" target="fr6zKeq4Gf89fbZ8SuuG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
