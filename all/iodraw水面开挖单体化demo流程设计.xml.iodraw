@@ -522,7 +522,7 @@
           <mxGeometry x="335" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fr6zKeq4Gf89fbZ8SuuG-3" value="单构件选择集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="565" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fr6zKeq4Gf89fbZ8SuuG-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="245" width="190" height="95" as="geometry" />
@@ -559,6 +559,9 @@
         </mxCell>
         <mxCell id="fr6zKeq4Gf89fbZ8SuuG-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="365" width="190" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fr6zKeq4Gf89fbZ8SuuG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fr6zKeq4Gf89fbZ8SuuG-16" target="fr6zKeq4Gf89fbZ8SuuG-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fr6zKeq4Gf89fbZ8SuuG-16" value="场景编辑状态没有选中构件的能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="294" y="372.5" width="200" height="30" as="geometry" />
