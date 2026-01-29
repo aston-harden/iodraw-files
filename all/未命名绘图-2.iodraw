@@ -276,8 +276,14 @@
         <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-1" value="物理状态 S_t&lt;div&gt;(位置/速度/角速度等)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="150" y="330" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-2" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a5y7RmI0_oZ4Iq_q3yDk-2" target="a5y7RmI0_oZ4Iq_q3yDk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-2" value="PCA编码&lt;div&gt;（GPU加速）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="395" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-4" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="595" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
