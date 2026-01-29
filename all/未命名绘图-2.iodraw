@@ -341,8 +341,8 @@
         <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-20" value="被修正后状态&lt;div&gt;s_{t+1}&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-23" value="AI预测模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;labelBackgroundColor=#CCFFFF;" vertex="1" parent="1">
-          <mxGeometry x="400" y="350" width="90" height="30" as="geometry" />
+        <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-23" value="&amp;nbsp; AI预测模块&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=#3399FF;labelBackgroundColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
