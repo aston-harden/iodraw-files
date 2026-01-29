@@ -299,7 +299,7 @@
         <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-6" value="PCA解码&lt;div&gt;（GPU）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-9" value="&lt;div&gt;连续碰撞检测 CCD（几何空间）&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;· 扫掠体&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;· 碰撞时间求解&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-9" value="&lt;div&gt;连续碰撞检测 CCD（几何空间）&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;1. 扫掠体&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;2. 碰撞时间求解&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
