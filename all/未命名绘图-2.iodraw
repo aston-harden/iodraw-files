@@ -324,11 +324,17 @@
         <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-11" value="碰撞" style="rhombus;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="560" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a5y7RmI0_oZ4Iq_q3yDk-14" target="a5y7RmI0_oZ4Iq_q3yDk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-14" value="碰撞响应模块&lt;div&gt;a.动量守恒&lt;/div&gt;&lt;div&gt;b. 能量守恒&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-17" value="状态接受&lt;div&gt;s_{t+1}&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5y7RmI0_oZ4Iq_q3yDk-20" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
