@@ -50,7 +50,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oiZjE3lJl56DE2xsh0mS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="oiZjE3lJl56DE2xsh0mS-6" target="oiZjE3lJl56DE2xsh0mS-8">
+        <mxCell id="oiZjE3lJl56DE2xsh0mS-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oiZjE3lJl56DE2xsh0mS-6" target="oiZjE3lJl56DE2xsh0mS-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oiZjE3lJl56DE2xsh0mS-6" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(237, 240, 253);&quot;&gt;TOI &amp;lt; Δt ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="oiZjE3lJl56DE2xsh0mS-7" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(237, 240, 253);&quot;&gt;积分更新状态 Δt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="550" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiZjE3lJl56DE2xsh0mS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oiZjE3lJl56DE2xsh0mS-8" target="oiZjE3lJl56DE2xsh0mS-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oiZjE3lJl56DE2xsh0mS-8" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(237, 240, 253);&quot;&gt;在 TOI 时刻执行冲量碰撞响应&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="545" width="200" height="40" as="geometry" />
