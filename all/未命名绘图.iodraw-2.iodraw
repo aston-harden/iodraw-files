@@ -75,7 +75,7 @@
         <mxCell id="oiZjE3lJl56DE2xsh0mS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oiZjE3lJl56DE2xsh0mS-8" target="oiZjE3lJl56DE2xsh0mS-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiZjE3lJl56DE2xsh0mS-8" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(237, 240, 253);&quot;&gt;在 TOI 时刻执行冲量碰撞响应&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="oiZjE3lJl56DE2xsh0mS-8" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(237, 240, 253);&quot;&gt;在 TOI 时刻执行冲量碰撞响应&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="545" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oiZjE3lJl56DE2xsh0mS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oiZjE3lJl56DE2xsh0mS-9" target="oiZjE3lJl56DE2xsh0mS-2">
