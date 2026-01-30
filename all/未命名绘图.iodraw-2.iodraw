@@ -7,7 +7,7 @@
         <mxCell id="oiZjE3lJl56DE2xsh0mS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oiZjE3lJl56DE2xsh0mS-1" target="oiZjE3lJl56DE2xsh0mS-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiZjE3lJl56DE2xsh0mS-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: arial, sans-serif; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(237, 240, 253);&quot;&gt;开始 CCD 时间步 Δt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="oiZjE3lJl56DE2xsh0mS-1" value="&lt;span style=&quot;font-family: arial, sans-serif; font-size: 14px; text-wrap-mode: nowrap; background-color: rgb(237, 240, 253);&quot;&gt;开始 CCD 时间步 Δt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="350" y="70" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oiZjE3lJl56DE2xsh0mS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oiZjE3lJl56DE2xsh0mS-2" target="oiZjE3lJl56DE2xsh0mS-3">
